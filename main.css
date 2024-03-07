@@ -1,0 +1,16 @@
+body{
+    background-color:dimgray;
+}
+#mainheader{
+    margin: auto;
+    padding: 100;
+    background-color:rgb(46, 44, 44);
+}
+.diverFont{
+    font-family: "Miriam Fixed", sans-serif;
+    color: rgb(#FFE900);
+}
+.subFont{
+    font-family: "Miriam Fixed", sans-serif;
+    color: white;
+}
