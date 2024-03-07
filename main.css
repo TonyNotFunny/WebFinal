@@ -1,14 +1,18 @@
 body{
-    background-color:dimgray;
+    background-color:rgb(77, 74, 74);
 }
 #mainheader{
     margin: auto;
     padding: 100;
     background-color:rgb(46, 44, 44);
+    color: #FFE900;
+    font-weight: 1000;
+    font-size: large;
 }
 .diverFont{
     font-family: "Miriam Fixed", sans-serif;
-    color: rgb(#FFE900);
+    
+    
 }
 .subFont{
     font-family: "Miriam Fixed", sans-serif;
