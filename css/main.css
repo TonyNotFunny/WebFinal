@@ -9,6 +9,7 @@ body{
     font-weight: 1000;
     font-size: large;
 }
+
 .diverFont{
     font-family: "Miriam Fixed", sans-serif;
     
@@ -21,4 +22,16 @@ body{
 h3{
     font-family: "Miriam Fixed", sans-serif;
     color:crimson ;
+}
+#slides{
+    width: 450;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+footer{
+    background-color: #FFE900;
+    padding: 25;
+    border: #FFE900;
+    
 }
